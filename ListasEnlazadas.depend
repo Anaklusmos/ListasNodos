@@ -1,0 +1,94 @@
+# depslib dependency file v1.0
+1392141036 source:c:\users\salguero\documents\c++\listasenlazadas\lista.cpp
+	"Lista.h"
+
+1392056858 c:\users\salguero\documents\c++\listasenlazadas\lista.h
+	<iostream>
+	"Nodo.h"
+
+1391710688 c:\users\salguero\documents\c++\listasenlazadas\nodo.h
+
+1392331337 source:c:\users\salguero\documents\c++\listasenlazadas\main.cpp
+	<iostream>
+	"Lista.h"
+	"ListaDoble.h"
+
+1392054363 source:c:\users\salguero\documents\c++\listasenlazadas\nodo.cpp
+	<iostream>
+	"Nodo.h"
+
+1392315251 source:c:\users\salguero\documents\c++\listasenlazadas\listadoble.cpp
+	"ListaDoble.h"
+	<iostream>
+
+1392313036 c:\users\salguero\documents\c++\listasenlazadas\listadoble.h
+	"NodoDoble.h"
+
+1392142386 c:\users\salguero\documents\c++\listasenlazadas\nododoble.h
+	<iostream>
+
+1392142288 source:c:\users\salguero\documents\c++\listasenlazadas\nododoble.cpp
+	"NodoDoble.h"
+
+1392325372 source:c:\users\omar\desktop\lista-master\lista.cpp
+	"Lista.h"
+
+1392325372 c:\users\omar\desktop\lista-master\lista.h
+	<iostream>
+	"Nodo.h"
+
+1392325372 c:\users\omar\desktop\lista-master\nodo.h
+
+1392325372 source:c:\users\omar\desktop\lista-master\listadoble.cpp
+	"ListaDoble.h"
+	<iostream>
+
+1392325372 c:\users\omar\desktop\lista-master\listadoble.h
+	"NodoDoble.h"
+
+1392325372 c:\users\omar\desktop\lista-master\nododoble.h
+	<iostream>
+
+1392325372 source:c:\users\omar\desktop\lista-master\main.cpp
+	<iostream>
+	"Lista.h"
+	"ListaDoble.h"
+
+1392325372 source:c:\users\omar\desktop\lista-master\nodo.cpp
+	<iostream>
+	"Nodo.h"
+
+1392325372 source:c:\users\omar\desktop\lista-master\nododoble.cpp
+	"NodoDoble.h"
+
+1392325372 source:c:\users\omar\desktop\prograiii\listasenlazadas\lista.cpp
+	"Lista.h"
+
+1392325372 c:\users\omar\desktop\prograiii\listasenlazadas\lista.h
+	<iostream>
+	"Nodo.h"
+
+1392325372 c:\users\omar\desktop\prograiii\listasenlazadas\nodo.h
+
+1395697013 source:c:\users\omar\desktop\prograiii\listasenlazadas\listadoble.cpp
+	"ListaDoble.h"
+	<iostream>
+
+1392325372 c:\users\omar\desktop\prograiii\listasenlazadas\listadoble.h
+	"NodoDoble.h"
+
+1392325372 c:\users\omar\desktop\prograiii\listasenlazadas\nododoble.h
+	<iostream>
+
+1395696652 source:c:\users\omar\desktop\prograiii\listasenlazadas\main.cpp
+	<iostream>
+	"Lista.h"
+	"ListaDoble.h"
+
+1392325372 source:c:\users\omar\desktop\prograiii\listasenlazadas\nodo.cpp
+	<iostream>
+	"Nodo.h"
+
+1392325372 source:c:\users\omar\desktop\prograiii\listasenlazadas\nododoble.cpp
+	"NodoDoble.h"
+
